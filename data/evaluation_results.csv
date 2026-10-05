@@ -1,0 +1,19 @@
+Filename,Human Score,Hybrid Model Score,TF-IDF Score
+resume_1_priya.docx,5,75.1,0.249
+resume_2_arjun.docx,1,41.9,0.041
+resume_3_kavya.docx,3,60.1,0.186
+resume_04_rohan.docx,5,70.4,0.145
+resume_05_ananya.docx,1,42.2,0.036
+resume_06_vikram.docx,1,46.9,0.053
+resume_07_sneha.docx,3,50.8,0.262
+resume_08_karthik.docx,2,53.8,0.08
+resume_09_meera.docx,3,60.6,0.15
+resume_10_aditya.docx,4,65.2,0.159
+resume_11_ishita.docx,5,79.4,0.26
+resume_12_rahul.docx,1,38.8,0.045
+resume_13_divya.docx,3,62.9,0.196
+resume_14_siddharth.docx,1,46.9,0.056
+resume_15_pooja.docx,3,58.0,0.171
+resume_16_farhan.docx,1,47.4,0.046
+resume_17_neha.docx,3,63.8,0.162
+resume_18_arvind.docx,1,51.3,0.055

@@ -1,0 +1,95 @@
+[
+  {
+    "candidate_name": "Priya Sharma",
+    "final_score": 75.1,
+    "breakdown": {
+      "semantic_similarity": 43.3,
+      "skill_match": 92.5,
+      "experience_match": 100.0,
+      "education_match": 100.0
+    },
+    "explanation": {
+      "matched_must_have_skills": [
+        "data analysis",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "missing_must_have_skills": [],
+      "matched_nice_to_have_skills": [
+        "communication",
+        "power bi"
+      ],
+      "missing_nice_to_have_skills": [
+        "aws",
+        "tableau"
+      ],
+      "candidate_experience_years": 3.0,
+      "required_experience_years": 2,
+      "candidate_education": "bachelor",
+      "required_education": "bachelor"
+    }
+  },
+  {
+    "candidate_name": "Kavya Reddy",
+    "final_score": 60.1,
+    "breakdown": {
+      "semantic_similarity": 46.2,
+      "skill_match": 88.8,
+      "experience_match": 0.0,
+      "education_match": 100.0
+    },
+    "explanation": {
+      "matched_must_have_skills": [
+        "data analysis",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "missing_must_have_skills": [],
+      "matched_nice_to_have_skills": [
+        "communication"
+      ],
+      "missing_nice_to_have_skills": [
+        "aws",
+        "power bi",
+        "tableau"
+      ],
+      "candidate_experience_years": 0.0,
+      "required_experience_years": 2,
+      "candidate_education": "bachelor",
+      "required_education": "bachelor"
+    }
+  },
+  {
+    "candidate_name": "Arjun Mehta",
+    "final_score": 41.9,
+    "breakdown": {
+      "semantic_similarity": 26.9,
+      "skill_match": 3.8,
+      "experience_match": 100.0,
+      "education_match": 100.0
+    },
+    "explanation": {
+      "matched_must_have_skills": [],
+      "missing_must_have_skills": [
+        "data analysis",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "matched_nice_to_have_skills": [
+        "aws"
+      ],
+      "missing_nice_to_have_skills": [
+        "communication",
+        "power bi",
+        "tableau"
+      ],
+      "candidate_experience_years": 5.0,
+      "required_experience_years": 2,
+      "candidate_education": "master",
+      "required_education": "bachelor"
+    }
+  }
+]
